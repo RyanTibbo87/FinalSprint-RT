@@ -1,0 +1,42 @@
+[
+  {
+    "first": "Ryan",
+    "last": "Tibbo",
+    "age": 25,
+    "gender": "male",
+    "email": "ryantibbo73@hotmail.com",
+    "country": "Canada"
+  },
+  {
+    "first": "Ryan",
+    "last": "Reynolds",
+    "age": 47,
+    "gender": "male",
+    "email": "deadpool@gmail.com",
+    "country": "Canada"
+  },
+  {
+    "first": "Emma",
+    "last": "Watson",
+    "age": 33,
+    "gender": "female",
+    "email": "hermione@gmail.com",
+    "country": "France"
+  },
+  {
+    "first": "Robert",
+    "last": "Downey Jr",
+    "age": 59,
+    "gender": "male",
+    "email": "ironman@hotmail.com",
+    "country": "USA"
+  },
+  {
+    "first": "Henry",
+    "last": "Cavill",
+    "age": 40,
+    "gender": "male",
+    "email": "geraltofrivia@gmail.com",
+    "country": "Great Britain"
+  }
+]
